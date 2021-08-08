@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketApi", "BasketApi\BasketApi.csproj", "{D54B7617-BD36-429D-A26C-0F2681C63DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DA198D26-399C-4A72-91FB-543C878293AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54B7617-BD36-429D-A26C-0F2681C63DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54B7617-BD36-429D-A26C-0F2681C63DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54B7617-BD36-429D-A26C-0F2681C63DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54B7617-BD36-429D-A26C-0F2681C63DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA198D26-399C-4A72-91FB-543C878293AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA198D26-399C-4A72-91FB-543C878293AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA198D26-399C-4A72-91FB-543C878293AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA198D26-399C-4A72-91FB-543C878293AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
